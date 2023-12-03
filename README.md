@@ -3,7 +3,7 @@ Meus primeiros códigos em Python, uma cartilha que serve mais para entender a b
 
 # Destrinchando o Projeto:
 
-File: 'primeiroscodigospy'
+File 1: 'Cartilha - Primeiros Códigos em Python'
   - Função print: 
     Esta é responsável para imprimir valores na tela do usuário.
     
@@ -16,3 +16,8 @@ File: 'primeiroscodigospy'
   - Variável: 
     As varíaveis são tudo que possuem algum valor atrelado, e a aqui teremos alguns exemplos.
 
+FIle 2: 'Exercícios - Primeiros Códigos em py'
+  - Variável:
+    Sabendo o que são variáveis, agora é útil entender como elas guardam essas informações e como é possível calcular elas entre si.
+    Além disso, está exemplificado como se pode criar novas varíaveis que contém em seu valor o calculo de outras varíaveis, isso é útil pra conectar cada vez mais o código.
+    Exemplifico também como podemos usar variáveis para formar códigos úteis para o mundo real em situações úteis.
