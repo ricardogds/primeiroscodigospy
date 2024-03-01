@@ -23,8 +23,13 @@ FIle 2: '2 - Exercícios - Primeiros Códigos em py'
     Exemplifico também como podemos usar variáveis para formar códigos úteis para o mundo real em situações úteis.
 
 File 3: '3 - Tipos de Variáveis'
+
   Nesse arquivo, trago todos os tipos de varíaveis, dentre eles:
-    - int: tudo que é nº inteiro;
-    - string: tudo que é texto;
-    - float: números com casas decimais, ou pontos flutuantes;
-    - bool ou boolean: tudo que é uma expressão lógica, o Python retorna True ou False.
+    - int: 
+      Tudo que é nº inteiro;
+    - string: 
+      Tudo que é texto;
+    - float: 
+      Números com casas decimais, ou pontos flutuantes;
+    - bool ou boolean: 
+      Tudo que é uma expressão lógica, o Python retorna True ou False.
