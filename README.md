@@ -31,3 +31,10 @@ File 3: '3 - Tipos de Variáveis'
     Números com casas decimais, ou pontos flutuantes;
   - bool ou boolean: 
     Tudo que é uma expressão lógica, o Python retorna True ou False.
+
+File 4: '4 - Mais Variáveis'
+  - Estruturas Sequencias:
+    Essas estruturas são chamadas assim pois seguem um tipo de estruturação de funcionamento. Funcionam assim:
+    1. Entrada de Dados: por um input;
+    2. Processamento: Realização dos cálculos ou formatações;
+    3. Saída de Dados: Retorno do processado dos dados inputados, o 'print'.
